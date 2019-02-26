@@ -35,9 +35,9 @@ Gilded Rose production code should be short and concise. Commit your refactored 
 have at least one test method for Conjured items, and it proves that Conjured items degrade twice as fast as ordinary items. All tests should pass.            
   > Refactored Code and new conjured item:   Session 2  Feb 17          
   > Session 2 video  - abridged for size ~1.5hrs to 15 mins : https://youtu.be/vhpGYiphS-U           
-  > Test Coverage Conjured Item : <a href='https://raw.githubusercontent.com/emadvaid/6733/master/GildedRose-Refactoring-Kata/Team2_A2_session2Refactored_code-coverage.png'>Team2_A2_session2Refactored_code-coverage.png</a>
-  > Test Results for Final Code: <a href='https://raw.githubusercontent.com/emadvaid/6733/master/GildedRose-Refactoring-Kata/Team2_A2_session2Refactored_test-results.png'>Team2_A2_session2Refactored_test-results.png</a>
-  > Team2_A2_session2Refactored Test Results - <a href='https://github.com/emadvaid/6733/blob/master/GildedRose-Refactoring-Kata/Team2_A2_session2Refactored%20Test%20Results%20-%20All_in_gilded-rose-kata.html'>All_in_gilded-rose-kata.htm</a>
+  > Test Coverage Conjured Item : [Team2_A2_session2Refactored_code-coverage.png](https://raw.githubusercontent.com/emadvaid/6733/master/GildedRose-Refactoring-Kata/Team2_A2_session2Refactored_code-coverage.png)
+  > Test Results for Final Code: [Team2_A2_session2Refactored_test-results.png] (https://raw.githubusercontent.com/emadvaid/6733/master/GildedRose-Refactoring-Kata/Team2_A2_session2Refactored_test-results.png)
+  > Team2_A2_session2Refactored [Test Results] (https://github.com/emadvaid/6735/blob/master/GildedRose-Refactoring-Kata/Team2_A2_session2Refactored%20Test%20Results%20-%20All_in_gilded-rose-kata.html'>All_in_gilded-rose-kata.htm)
                                              
  NOTE All This information and screen shots are included in: Team2_A2_EmergSFW6733_READ_ME.docx
             
